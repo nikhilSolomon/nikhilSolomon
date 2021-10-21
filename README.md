@@ -25,7 +25,7 @@
 
 Maybe grab a drink and come chill with us!
 
-[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/zb7nMZc5)
+##[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/zb7nMZc5)
 
 
 ## My Activities
@@ -34,7 +34,7 @@ Maybe grab a drink and come chill with us!
 
 ## :headphones: Spotify
 
-[![French Music](https://img.shields.io/badge/French%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
+[![French Music](https://img.shields.io/badge/English20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/75T9iO3fBQ61jgwRVaX8iz?si=bafd76d0c1d74935) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
 
 
 
