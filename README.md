@@ -1,16 +1,48 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**nikhilSolomon/nikhilSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hey there, I'm <a href="https://youtube.com/UltraX1">Nikhil solomon</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://discord.gg/zb7nMZc5"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+</p>
+
+
+# Hey there!
+
+I'm UltraX the guy who make videos on youtuber teaching people how to create their own discord bot!
+
+- :muscle:  Currently in fivem projects.
+
+
+
+## :wrench: Interests
+
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![NPM](https://img.icons8.com/color/30/npm.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+
+## 🤩 My Community
+
+Maybe grab a drink and come chill with us!
+
+[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
+
+
+## My Activities
+
+
+
+## :headphones: Spotify
+
+[![French Music](https://img.shields.io/badge/French%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4lXj9sCSFc6q6BxIiRKMVC?si=cbe4d88f8d2a4a96) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
+
+
+
+----
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nikhilSolomon" alt="visitor badge"/>
+</p>
+
+
