@@ -47,7 +47,8 @@ Maybe grab a drink and come chill with us!
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilSolomon&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://youtube.com/Nikhil">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilSolomon&repo=convoychat" />/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilSolomon&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  
 </a>  
 
 <p align='center'>
