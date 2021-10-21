@@ -12,8 +12,12 @@
 
 # Hey there!
 
+💪 Currently working on small projects.
 
-.
+✊ Not perfect, but i'll be one day.
+
+🎯 travelling
+
 
 
 
@@ -28,7 +32,7 @@ Maybe grab a drink and come chill with us!
 
 
 
-## My Activities
+
 
 
 
@@ -37,8 +41,14 @@ Maybe grab a drink and come chill with us!
 [![French Music](https://img.shields.io/badge/English20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/75T9iO3fBQ61jgwRVaX8iz?si=bafd76d0c1d74935) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
 
 
-
+## My Activities
 ----
+<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilSolomon&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://youtube.com/UltraX1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilSolomon&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>  
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=nikhilSolomon" alt="visitor badge"/>
