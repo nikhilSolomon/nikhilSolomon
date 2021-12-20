@@ -1,9 +1,10 @@
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png" width="224px"/><br/>
+  Hey I am Nikhil Solomon P
+</h1>
 
-<h3 align="center">Hey there, I'm <a href="https://youtube.com/UltraX1">Nikhil solomon</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
+<h3
 <p align="center">
   <a href="https://discord.gg/zb7nMZc5"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
