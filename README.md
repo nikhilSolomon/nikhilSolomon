@@ -15,11 +15,4 @@
 
 # Hey there!
 
-💪 Currently working on small projects.
-
-✊ Not perfect, but i'll be one day.
-
-🎯 travelling
-
-
 
