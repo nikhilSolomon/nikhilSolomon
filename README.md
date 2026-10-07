@@ -92,12 +92,6 @@ struct NikhilSolomon: Developer {
 <br/><br/>
 
 <a href="https://github.com/nikhilSolomon">
-  <img src="https://ghchart.rshah.org/06b6d4/nikhilSolomon" width="100%" alt="Contribution calendar" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/nikhilSolomon">
   <img src="https://github-trophies.vercel.app/?username=nikhilSolomon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </a>
 
