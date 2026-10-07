@@ -86,13 +86,19 @@ struct NikhilSolomon: Developer {
 <br/><br/>
 
 <a href="https://github.com/nikhilSolomon">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilSolomon&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06b6d4&line=1e3a8a&point=06b6d4&area=true&area_color=06b6d4" width="100%" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilSolomon&theme=tokyonight" width="100%" alt="Profile summary and contribution graph" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilSolomon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<a href="https://github.com/nikhilSolomon">
+  <img src="https://ghchart.rshah.org/06b6d4/nikhilSolomon" width="100%" alt="Contribution calendar" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/nikhilSolomon">
+  <img src="https://github-trophies.vercel.app/?username=nikhilSolomon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </a>
 
 </div>
